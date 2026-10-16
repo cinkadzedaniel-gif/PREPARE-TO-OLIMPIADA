@@ -1,1 +1,1 @@
-# PREPARE-TO-OLIMPIADA
+# Prepara-to-olimpiada

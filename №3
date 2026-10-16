@@ -1,0 +1,28 @@
+ex = int(input())
+
+
+if ex == 1:
+    n = int(input())
+
+    if n  % 2 == 0 :
+        print("YES")
+
+    else:
+        print("NO")
+
+if ex == 2:
+
+    a= list(map(int, input().split()))
+
+    print(max(a))
+
+
+if ex == 3:
+    num = int(input())
+    count = 0 
+
+    for i in range(1, num + 1):
+        if i % 3 == 0:
+            count += i 
+
+    print(count)
